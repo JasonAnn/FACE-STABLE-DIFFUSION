@@ -12,8 +12,12 @@ Awesome works related to facial features based on diffusion models.
 > **Face Animation with an Attribute-Guided Diffusion Model** [[paper](https://openaccess.thecvf.com/content/CVPR2023W/GCV/papers/Zeng_Face_Animation_With_an_Attribute-Guided_Diffusion_Model_CVPRW_2023_paper.pdf)][[code]()].
 >
 >  **Score jacobian chaining: Lifting pretrained 2d diffusion models for 3d generation** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Score_Jacobian_Chaining_Lifting_Pretrained_2D_Diffusion_Models_for_3D_CVPR_2023_paper.pdf)][[code]()].
+>
+> **More control for free! image synthesis with semantic diffusion guidance** [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Liu_More_Control_for_Free_Image_Synthesis_With_Semantic_Diffusion_Guidance_WACV_2023_paper.pdf)][[code]()][[project](xh-liu.github.io/sdg/)].
+>
+> **Uncovering the disentanglement capability in text-to-image diffusion models** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Uncovering_the_Disentanglement_Capability_in_Text-to-Image_Diffusion_Models_CVPR_2023_paper.pdf)][[code](https://github.com/UCSBNLP-Chang/DiffusionDisentanglement.)].
 > 
->  **Generated Faces** [[paper]()][[code]()].
+>  **Multi-concept customization of text-to-image diffusion** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf)][[code]()].
 > 
 > 
 
@@ -23,7 +27,7 @@ Awesome works related to facial features based on diffusion models.
 >
 >  **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation** [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.pdf)][[code](https://github.com/gwang-kim/DiffusionCLIP)].
 
-
+>  **emantic Image Synthesis via Diffusion Models** [[paper]()][[code]()].S
 **ICLR2022**
 
 >  **Diffusion models already have a semantic latent space** [[paper](https://arxiv.org/pdf/2210.10960.pdf)][[code]()][[project](https://kwonminki.github.io/Asyrp/)].
@@ -52,6 +56,14 @@ Awesome works related to facial features based on diffusion models.
 > **Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models** [[paper](https://arxiv.org/pdf/2305.11870.pdf)][[code]()][[project](https://snuvclab.github.io/chupa/)].
 >
 > **Adding 3D Geometry Control to Diffusion Models** [[paper](https://arxiv.org/pdf/2306.08103.pdf)][[code]()].
+>
+>  **Blended Latent Diffusion** [[paper](https://arxiv.org/pdf/2206.02779.pdf)][[code]()].
+>
+> **Designing an encoder for fast personalization of text-to-image models** [[paper](https://arxiv.org/pdf/2302.12228.pdf)][[code]()][[project](https://tuning-encoder.github.io/)].
+>
+> **Semantic Image Synthesis via Diffusion Models** [[paper](https://arxiv.org/pdf/2207.00050.pdf)][[code](https://github.com/WeilunWang/semantic-diffusion-model.)]
+>
+> **Pyramidal denoising diffusion probabilistic models** [[paper](https://arxiv.org/pdf/2208.01864.pdf)][[code]()]. 
 
 
 
