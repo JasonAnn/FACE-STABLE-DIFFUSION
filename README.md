@@ -6,6 +6,8 @@ Awesome works related to facial features based on diffusion models.
 > **Conditional Image-to-Video Generation with Latent Flow Diffusion Models** [[paper](https://arxiv.org/abs/2303.13744)][[code](https://github.com/nihaomiao/CVPR23_LFDM)].
 > 
 > **Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Diffusion_Video_Autoencoders_Toward_Temporally_Consistent_Face_Video_Editing_via_CVPR_2023_paper.pdf)][[code](https://github.com/nihaomiao/CVPR23_LFDM)].
+>
+> **DiffusionRig: Learning Personalized Priors for Facial Appearance Editing** [[paper](https://arxiv.org/pdf/2304.06711.pdf)][[code](https://github.com/adobe-research/diffusion-rig)].
 > 
 > **DiffSwap: High-Fidelity and Controllable Face Swapping via 3D-Aware Masked Diffusion** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_DiffSwap_High-Fidelity_and_Controllable_Face_Swapping_via_3D-Aware_Masked_Diffusion_CVPR_2023_paper.pdf)][[code](https://github.com/zengbohan0217/FADM)].
 >
