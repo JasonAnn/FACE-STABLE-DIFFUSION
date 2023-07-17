@@ -21,7 +21,11 @@ Awesome works related to facial features based on diffusion models.
 > 
 >  **Multi-concept customization of text-to-image diffusion** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf)][[code]()].
 > 
-> 
+>  **Multi-concept customization of text-to-image diffusion** [[paper]()][[code]()].
+>
+> ** DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DR2_Diffusion-Based_Robust_Degradation_Remover_for_Blind_Face_Restoration_CVPR_2023_paper.pdf)][[code]()].
+>
+>  **RODIN: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_RODIN_A_Generative_Model_for_Sculpting_3D_Digital_Avatars_Using_CVPR_2023_paper.pdf)][[code]()].
 
 **CVPR2022**
 
@@ -33,6 +37,7 @@ Awesome works related to facial features based on diffusion models.
 **ICLR2022**
 
 >  **Diffusion models already have a semantic latent space** [[paper](https://arxiv.org/pdf/2210.10960.pdf)][[code]()][[project](https://kwonminki.github.io/Asyrp/)].
+> 
 
 **AAAI2022**
 
